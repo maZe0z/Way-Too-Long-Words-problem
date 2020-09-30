@@ -1,5 +1,6 @@
 # Way-Too-Long-Words-problem
-problem 71A on codeforces
+Problem 71A on codeforces.
+
 The problem is pretty easy and there are several methods to solve it.
 
 Here's the problem itself:
